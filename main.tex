@@ -28,23 +28,33 @@
 
 \section{Przedmiot pracy}
 
-Celem projektu jest stworzenie biblioteki w języku C++ umożliwiającej renderowanie realistycznych fizycznie scen w przestrzeni kosmicznej.
-Skończona biblioteka powinna umożliwiać łatwe definiowanie scen w przestrzeni kosmicznej w zastosowaniach czasu rzeczywistego, z zachowaniem fizycznego realizmu renderowanych scen, zapewniać podstawowe prymitywy pozwalające na realistyczne odwzorowanie większości układów astronomicznych:
-
-\section{Motywacja}
-Motywacją do stworzenia tej biblioteki jest chęć ułatwienia tworzenia gier i symulacji w przestrzeni kosmicznej, oferując 
+Celem projektu jest stworzenie biblioteki w języku C++ umożliwiającej renderowanie fizycznie realistycznych scen w przestrzeni kosmicznej.
+Skończona biblioteka powinna umożliwiać deklaratywne definiowanie scen w przestrzeni kosmicznej w zastosowaniach czasu rzeczywistego, z zachowaniem fizycznego realizmu renderowanych scen, oraz zapewniać podstawowe prymitywy pozwalające na odwzorowanie większości układów astronomicznych:
 
 \begin{itemize}
 
 \item Wolumetryczne chmury pyłu / pierścienie planet
-\item Proceduralna generacja powierzchni asteroid / planet (algorytm Marching Cubes, lub deformacja sfery na podstawie szumu) oraz gwiazd (generacja tekstury na podstawie szumu)
-\item Efekt soczewkowania grawitacyjnego
+\item Proceduralna generacja powierzchni asteroid / planet (za pomocą algorytmu "Marching Cubes", lub deformacji sfery) oraz gwiazd (generacja tekstury na podstawie szumu)
+\item Efekt soczewkowania grawitacyjnego wokół masywnych obiektów
 
+\end{itemize}
+
+\section{Motywacja}
+
+Umożliwienie tworzenia realistycznych symulacji w przestrzeni kosmicznej
+
+Cechy wyróżniające biblioteki:
+\begin{itemize}
+    \item Specjalizacja w kierunku renderowania efektów astronomicznych ()
+    \item Brak zewnętrznych zależności
+    \item Łatwa integracja z istniejącym kodem
 \end{itemize}
 
 \section{Implementacja}
 
 Biblioteka zostanie napisana w języku C++ z użyciem biblioteki OpenGL lub Vulkan, jednak architektura powinna wprowadzić warstwę abstrakcji umożliwiającą prostą zmianę backendu graficznego.
+
+
 Scena w bibliotece będzie renderowana w 'przebiegach', wykorzystujących zdefiniowane obiekty dla danego przebiegu, oraz tekstury wynikowe poprzednich przebiegów, umożliwi to tworzenie bardziej zaawansowanych scen oraz pozwoli na implementacje efektów postprocessingu np. bloom.
 
 \section{Plan pracy}
@@ -61,7 +71,9 @@ Scena w bibliotece będzie renderowana w 'przebiegach', wykorzystujących zdefin
  \hline
  01.10-01.11 & Implementacja soczewkowania grawitacyjnego \\  
  \hline
- 01.11-01.12 & Refactor, poprawa i analiza istniejących funkcjonalności \\  
+ 01.11-01.12 & Refactor, poprawa i analiza istniejących funkcjonalności, Pisanie pracy \\  
+ \hline
+ 01.11-01.12 & Pisanie pracy\\  
 \end{tabular}
 \end{center}
 
