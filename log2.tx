@@ -1,0 +1,135 @@
+OpenGL: GL_INVALID_VALUE in glNamedBufferStorage(size <= 0)
+OpenGL: GL_INVALID_VALUE in glNamedBufferStorage(size <= 0)
+Creating shader buffer with pattern: 3
+Creating shader buffer with pattern: 3
+Creating shader buffer with pattern: 2
+OpenGL: memory mapping a busy "buffer" BO stalled and took 19.318 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 32.538 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 31.343 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 22.900 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 24.943 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 22.132 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.928 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 18.227 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.988 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 25.320 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 18.225 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 19.922 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 21.618 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.842 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.694 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 21.523 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 21.292 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 18.437 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.632 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 19.620 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 28.394 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 25.498 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 30.693 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 31.402 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 28.827 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 21.408 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 22.307 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 25.481 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 21.818 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 21.876 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.703 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.205 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 21.163 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.596 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.320 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.543 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.791 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 19.982 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 16.458 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 19.479 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 19.864 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.405 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.347 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 16.903 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.121 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.813 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.031 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.418 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.020 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 19.435 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 19.654 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 16.726 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.672 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 21.133 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.455 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.485 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.237 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 21.149 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 19.392 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.962 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.249 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 20.299 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 19.615 ms.
+
+OpenGL: memory mapping a busy "buffer" BO stalled and took 17.530 ms.
+
+Loading vertices...
+New capacity: 1024 1016 This: 140725068275536

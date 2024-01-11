@@ -1,0 +1,20 @@
+#version 420 core
+
+layout(points) in;
+layout(points, max_vertices=1) out;
+
+uniform sampler3D image;
+uniform float threshold = 0.5;
+
+in vec3 vPos[];
+out float intensity;
+
+void main(){
+	float tex_value = texture(image, vPos[0] * 0.25).x;
+	if(tex_value > threshold){
+		gl_Position = gl_in[0].gl_Position;
+		intensity = (tex_value - threshold) / (1-threshold);
+		EmitVertex();
+		EndPrimitive();
+	}
+}
